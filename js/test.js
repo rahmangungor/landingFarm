@@ -6,6 +6,7 @@ function drawChart() {
 
     let item = 7
     let array = []
+    let array2 = []
     let first = 50
     array.unshift(['Price', 'Size'])
 
